@@ -39,6 +39,7 @@ I can’t imagine my life without extreme sports and travel - this is what gives
 To contact me you can use one of these communication channels: 📱
 - Telegram: https://t.me/MDPaul
 - Email: kiiashko.r@gmail.com
+- Facebook - https://www.facebook.com/kiiashko.r/
 
 [YaMDB API]: <https://github.com/ImreTot/api_yamdb>
 [YaMDB templates]: <https://github.com/ImreTot/YaMDB-templates>
