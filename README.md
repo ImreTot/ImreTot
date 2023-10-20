@@ -1,20 +1,20 @@
 ## Hi there 👋
 ## Roman is in touch!
-I'm a Python developer 🐍 and journalist ✒️. You're here to know more about the first one, so let's tell you more about the code. Here is a list of my recent projects:
+I'm a Python developer 🐍 and a journalist ✒️. Since you're here to learn more about the former, let me tell you about my recent coding endeavors. Here's a list of my most recent projects:
 
-- 🍄 Developed an [application][cooking_service] for publishing recipes (Django Rest Framework, Node JS). Users can follow authors, create a list of favorites and create a shopping list. The project runs in Docker containers. Web server - Nginx.
+- 🍄 Developed an [application][cooking_service] for publishing recipes (Django Rest Framework, React). Users can follow authors, create a list of favorites, and generate shopping lists. The project is containerized in Docker, and the web server runs on Nginx.
 
-- 📝 Launched the [To Do][To Do] application (Django Rest Framework, Node JS). It allows you to create tasks, track their completion, mark them as completed, and leave comments. Web server - Nginx. Deploy via Git Workflow.
+- 📝 Launched a [To Do][To Do] application (Django Rest Framework, React). It enables users to create tasks, track their completion, mark them as completed, and add comments. The web server is also powered by Nginx, and the deployment is managed via Git Workflow.
 
-- 📖 Created a social network using Django. Users can publish their diaries and notes, subscribe to other users, and comment on their articles. There are two versions of the project - based on [Django templates][YaMDB templates] and an [API version][YaMDB API] (Django Rest Framework).
+- 📖 Created a social network using Django. Users can publish diaries and notes, subscribe to other users, and comment on their articles. There are two versions of the project: one based on [Django templates][YaMDB templates] and the other an [API version][YaMDB API] using Django Rest Framework.
 
-- 🐙 Developed a [platform][Kittygram] for publishing photos of pets (Django Rest Framework, Node JS). Users can create accounts, leave pictures of animals with descriptions, and view posts by other authors. The project runs in Docker containers. Web server - Nginx. Deploy via Git Workflow.
+- 🐙 Developed a [platform][Kittygram] for sharing pet photos (Django Rest Framework, React). Users can create accounts, upload pictures of animals with descriptions, and view posts by other authors. Similar to my other projects, this one runs in Docker containers, with the web server being served by Nginx. Deployment is handled via Git Workflow.
 
-- 🔱 I wrote a [Telegram bot][Homework-bot] that, based on requests to the API of a third-party resource, monitors the status of the user’s account.
+- 🔱 I've also written a [Telegram bot][Homework-bot] that, based on requests to the API of a third-party resource, monitors the status of user accounts.
 
 - 🚴 Designed a [fitness tracker][Fitnes-tracker] module. Depending on the type of workout and other data, the module calculates the number of calories burned and the distance traveled.
 
-My stack of programming technologies and skills:
+### My stack of programming technologies and skills:
 
 [![N|Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![N|Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
@@ -33,10 +33,9 @@ My stack of programming technologies and skills:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### About me
-A technician who was captured by humanitarians. I have always been interested in technology and science. I love to read and enthusiastically retell books to friends. I can explain any topic in simple language. 
-I can’t imagine my life without extreme sports and travel - this is what gives me strength, teaches me to cope with the impossible and energizes me.
+A technician who was captured by humanitarians. I've always been captivated by technology and science. I'm an avid reader and love sharing my knowledge with friends. I have the knack for explaining complex topics in simple language. I can't imagine my life without extreme sports and travel - they fuel me, teach me to conquer the impossible, and keep me energized.
 
-To contact me you can use one of these communication channels: 📱
+To contact me, you can use one of these communication channels: 📱
 - Telegram: https://t.me/MDPaul
 - Email: kiiashko.r@gmail.com
 - Facebook - https://www.facebook.com/kiiashko.r/
